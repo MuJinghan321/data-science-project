@@ -50,7 +50,7 @@ This project analyzes historical automobile sales data spanning 1980–2020, cov
 
 ## Key Findings
 
-1. **Overall sales drop sharply during recessions.** Average automobile sales decline significantly in recession years, with the 2008 financial crisis and 2020 COVID-19 showing the deepest dips.
+1. **Overall sales drop sharply during recessions.** Average monthly sales fall from **3,680 units** in non-recession periods to **1,382 units** in recession periods — a **62.5% decline** — with the 2008 financial crisis and 2020 COVID-19 showing the deepest dips.
 
 2. **Luxury and sports vehicles are most vulnerable.** Executive cars and sports cars experience the steepest sales declines during recessions, while smaller family cars and superminis show relative resilience — consumers shift toward practical, affordable vehicles in downturns.
 
